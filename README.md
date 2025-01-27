@@ -63,17 +63,17 @@ This repository contains the Power BI dashboards, datasets, and documentation cr
 ---
 
 ## Repository Structure
-1. Power BI Dashboards 
+1. ## Power BI Dashboards 
 - Call Centre Report - PWC (Task 2).pbix
 - Customer Retention Report - PWC (Task 3).pbix
 - Diversity and Inclusion Report - PWC (Task 4).pbix
 
-2. The datasets used in the project
+2. ## The datasets used in the project
 - Call Centre Dataset.xlsx
 - Churn Dataset.xlsx
 - Diversity Inclusion Dataset.xlsx
 
-3. Documentation
+3. ## Documentation
 - Introduction - PWC (Task 1).txt
 - Call Centre Report - PWC (Task 2).pdf
 - Customer Retention Report - PWC (Task 3).pdf
