@@ -1,0 +1,30 @@
+Subject: Key Insights and Recommendations for Customer Retention
+
+Dear Janet,
+I hope this email finds you well. Based on my analysis of the Customer Retention dashboard, I’d like to share the following key findings and actionable recommendations:
+
+Key Insights:
+1. Contract Preferences:
+A majority of customers (62%) are on month-to-month contracts, which may pose a higher churn risk.
+2. Senior Citizen Engagement:
+Senior citizens comprise 22.66% of the customer base but typically have shorter tenures, highlighting a need for engagement strategies.
+3. Service Usage:
+Fiber Optic is the most subscribed internet service, suggesting a potential for targeted marketing campaigns to this segment.
+4. Payment Method Impact:
+Customers using electronic checks exhibit a notably higher churn rate compared to other payment methods.
+
+Recommendations:
+1. Contract-Based Strategies:
+Introduce incentives, such as discounts or loyalty points, to encourage customers to switch to longer-term contracts.
+2. Senior Citizen Engagement:
+Design tailored plans or discounts specifically for senior citizens to boost satisfaction and retention.
+3. Service Promotions:
+Launch targeted promotions for Fiber Optic users to further capitalize on its popularity.
+4. Payment Method Improvements:
+Investigate reasons behind higher churn rates among electronic check users and explore strategies to minimize this churn.
+
+Please let me know if there are specific areas you’d like me to dive deeper into or if there’s anything further I can assist you with.
+
+Best regards,
+Satyam Kumar
+
