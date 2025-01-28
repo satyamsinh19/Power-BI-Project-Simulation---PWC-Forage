@@ -62,7 +62,7 @@ This repository contains the Power BI dashboards, datasets, and documentation cr
 
 ---
 
-## Repository Structure
+## Uploaded Files Structure
 1. ## Power BI Dashboards 
 - Call Centre Report - PWC (Task 2).pbix
 - Customer Retention Report - PWC (Task 3).pbix
