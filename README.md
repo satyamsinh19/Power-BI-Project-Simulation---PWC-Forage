@@ -1,5 +1,5 @@
 
-# Power BI Job Simulation - PwC Switzerland
+<h1 align="center"> Power BI Job Simulation - PwC Switzerland </h1>
 
 This repository contains the Power BI dashboards, datasets, and documentation created as part of the PwC Switzerland job simulation on Forage. The project involved analyzing datasets and creating interactive dashboards to address four specific tasks. Below is an overview of the tasks and the work completed for each.
 
